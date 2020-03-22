@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>icons/relib.png</file>
+    <file>icons/Restrict_Icon.png</file>
+  </qresource>
+</RCC>
